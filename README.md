@@ -12,4 +12,3 @@
 
 ## 📫 **Let's connect!** 
 E-mail: david.wullimann@ki.se
-linkedin: linkedin.com/in/davidjwullimann/
