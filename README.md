@@ -11,4 +11,4 @@
 - Significance to human health and new knowledge 📝
 
 ## 📫 **Let's connect!** 
-E-mail: david.wullimann@ki.se
+- E-mail: david.wullimann@ki.se
