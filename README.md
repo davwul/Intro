@@ -5,7 +5,8 @@
 
 🧪 "I study T-cell immune responses following vaccination, with a broader passion for human immunology and virology."
 
-💡 **Enjoy employing computational analyis on data I generate from the lab**:  
+💡 **Enjoy employing computational analyis on data I generate from the lab**:
+- Some of that works is put on here!
 
 📫 **Let's connect!** 
 E-mail: david.wullimann@ki.se
