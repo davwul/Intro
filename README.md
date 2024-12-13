@@ -3,10 +3,10 @@
 ### I'm **David Wullimann**  
 🎓 PhD Student in Hans-Gustaf Ljunggren group at Karolinska Institutet, Sweden.
 
-🧪 My research interest is T-cell immunity from vaccination, and more broadly human immunology and virology.
+🧪 "I study T-cell immune responses following vaccination, with a broader passion for human immunology and virology."
 
 💡 **Enjoy employing computational analyis on data I generate from the lab**:  
-- Immunological research  
+- Clinical and immunological research  
 - Data visualization 📊  
 - Significance to human health and new knowledge 📝  
 
