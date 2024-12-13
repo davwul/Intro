@@ -8,7 +8,8 @@
 💡 **Enjoy employing computational analyis on data I generate from the lab**:  
 - Clinical and immunological research  
 - Data visualization 📊  
-- Significance to human health and new knowledge 📝  
+- Significance to human health and new knowledge 📝
+
 ## 📫 **Let's connect!** 
 E-mail: david.wullimann@ki.se
 linkedin: linkedin.com/in/davidjwullimann/
